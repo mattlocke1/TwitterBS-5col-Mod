@@ -1,4 +1,4 @@
-TwitterBS-5col-Mod -Bootstrap 5-Column Layout
+Bootstrap 5-Column Layout
 ==================
 
 Twitter Bootstrap does not provide grid system that allows us to create five columns layout, here is a bit of code that can make that happen.
